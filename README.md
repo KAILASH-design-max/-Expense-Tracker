@@ -19,4 +19,4 @@ A simple and intuitive web-based Expense Tracker to manage your finances. Track 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/KAILASH-design-max/expense-tracker.git
